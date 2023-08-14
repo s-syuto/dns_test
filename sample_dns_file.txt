@@ -1,4 +1,4 @@
 ! Title : Yutan custom dns filter
 ! Data : 2023/08/14
 
-||mitemin.net^
+||mitemin.net^$image
