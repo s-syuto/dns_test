@@ -3,5 +3,5 @@
 
 ! 画像サイト「みてみん」をブロック
 ! なろうのAI挿絵がうざいから
-||mitemin.net^$image
+||mitemin.net
 
