@@ -1,4 +1,7 @@
 ! Title : Yutan custom dns filter
 ! Data : 2023/08/14
 
+! 画像サイト「みてみん」をブロック
+! なろうのAI挿絵がうざいから
 ||mitemin.net^$image
+
